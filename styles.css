@@ -1,9 +1,9 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #f4f6f9;
+    background: #e9eaeb;
     margin: 0;
     padding: 30px;
-    color: #2c3e50;
+    color: #3b4957;
 }
 
 h1, div#title, h2 {
@@ -13,10 +13,10 @@ h1, div#title, h2 {
 }
 
 div#title, h2 {
-    color: #2980b9;
+    color: #276c9a;
 }
 
-/* Đảm bảo SVG luôn căn giữa */
+/* Đảm bảo SVG luôn căn giữa, đồng nhất giữa các biểu đồ */
 svg {
     background: #ffffff;
     border-radius: 12px;
